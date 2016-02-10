@@ -1,1 +1,1 @@
-u BufNewFile,BufRead *.m set filetype=mumps
+au BufNewFile,BufRead *.m set filetype=mumps
