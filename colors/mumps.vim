@@ -1,1 +1,1 @@
-highlight commmands ctermbg=mumpsCommands
+highlight keyword ctermbg=Blue
