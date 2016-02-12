@@ -33,7 +33,7 @@ syntax match mumpsOperator "\v\*"
 syntax match mumpsOperator "\v/"
 syntax match mumpsOperator "\v\+"
 syntax match mumpsOperator "\v-"
-syntax match mumpsOperator "\v="
+syntax match mumpsOperator "\v\="
 
 syntax region mumpsString start=/\v"/ skip=/\v\\./ end=/\v"/
 
