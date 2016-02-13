@@ -28,6 +28,8 @@ syntax keyword mumpsCommands q Q quit
 syntax keyword mumpsCommands s S set
 syntax keyword mumpsCommands f F for
 syntax keyword mumpsCommands n N new
+syntax keyword mumpsCommands d D do 
+syntax keyword mumpsCommands k K kill
 
 syntax match mumpsOperator "\v\*"
 syntax match mumpsOperator "\v/"
